@@ -71,7 +71,6 @@ import {
 } from '@ionic/vue';
 import { openOutline } from 'ionicons/icons';
 
-const GITHUB_TOKEN = '';
 
 const selectedLanguage = ref('');
 const state = ref('empty');
