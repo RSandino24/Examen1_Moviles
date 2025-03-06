@@ -71,7 +71,7 @@ import {
 } from '@ionic/vue';
 import { openOutline } from 'ionicons/icons';
 
-const GITHUB_TOKEN = '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';
+const GITHUB_TOKEN = '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';
 
 const selectedLanguage = ref('');
 const state = ref('empty');
